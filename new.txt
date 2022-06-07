@@ -1,0 +1,4 @@
+firstname - Егор
+lastname - Трус
+number of pets - 2
+desired salary - 1000$+
