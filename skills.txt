@@ -1,0 +1,10 @@
+learned_skills:
+js
+javascript
+test-cases
+html
+css
+python
+postman
+charles
+functional testing

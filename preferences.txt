@@ -1,0 +1,5 @@
+favorite movie : Мальчишник в Вегасе
+favorite serial: Настоящий детектив
+favorite food: Бутерброд
+favorite time of the year: Весна
+country want to visit: Франция
